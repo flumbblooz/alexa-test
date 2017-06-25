@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "LauraIntent"
+    },
+   {
+     "intent":"AMAZON.PauseIntent"
+   }, 
+   {
+     "intent":"AMAZON.ResumeIntent"
+   }
+  ]
+}
